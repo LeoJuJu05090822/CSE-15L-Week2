@@ -24,7 +24,7 @@ Are you sure you want to continue connecting
 * <img width="679" alt="image step2" src="https://user-images.githubusercontent.com/103226676/162668053-f542e2a7-9870-48dc-aaf4-fed5b934d4dc.png">
  
  
-**Trying some command**
+**Trying some command** 
 * Here are some commands you can try
 * `pwd` : print working directory
 * `ls` : list files
